@@ -1,0 +1,7 @@
+Sobrecarga:
+quem está resolvendo a sobrecarga é o compilador e não a JVM.
+(tempo de compilação e não no de execução).
+Uma conveniência/comodidade para o código cliente.
+Quantidade, tipo e ordem.
+
+Muitos import static é considerado uma má pratica.
